@@ -1,0 +1,11 @@
+/* Estilos generales/compartidos de la app (usados en varias pantallas) */
+
+/* Centra el texto horizontalmente; útil en títulos, mensajes vacíos, etc. */
+.text-center {
+    text-align: center;
+}
+
+/* Espaciado interno de cada opción del menú lateral (drawer/sidebar) */
+.drawer-option {
+    padding: 16px;
+}
